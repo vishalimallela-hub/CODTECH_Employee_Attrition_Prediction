@@ -1,0 +1,8 @@
+{
+    "dataset_rows": 1470,
+    "dataset_columns": 35,
+    "training_records": 1176,
+    "testing_records": 294,
+    "accuracy": 0.7517,
+    "roc_auc": 0.8032
+}
